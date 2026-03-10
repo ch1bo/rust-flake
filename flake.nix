@@ -17,6 +17,8 @@
             rustfmt
             rustPackages.clippy
             rust-analyzer
+            pkg-config
+            openssl.dev
           ];
         };
       });
